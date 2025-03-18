@@ -209,7 +209,7 @@ curl -X POST https://bayen.onrender.com/chat \
 
 ## إعداد واجهة المستخدم (React Frontend)
 
-هذا المشروع مبني باستخدام React ومكتبة `@assistant-ui/react`.
+واجهة المستخدم المرفقة في المستودع عبارة عن واجهة تجريبية لاختبار الـAPI مبنية باستخدام React ومكتبة `@assistant-ui/react`.
 
 ### المتطلبات الأساسية
 
